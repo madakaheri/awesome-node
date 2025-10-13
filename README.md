@@ -1,6 +1,6 @@
-# awesome-node
+# Awesome node
 
-マダカの node.js のお気に入りツール集
+node.js お気に入りツール集
 
 ## 基本
 
