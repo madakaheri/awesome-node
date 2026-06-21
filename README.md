@@ -2,10 +2,13 @@
 
 node.js お気に入りツール集
 
-## 基本
+## Linter
 
 - [xo](https://www.npmjs.com/package/xo) - Linter / Formatter / ESLintの最適解
-- [ava](https://www.npmjs.com/package/ava) - 軽量なテストツール（標準テストが成熟するまでの代替）
+
+## テスト
+
+- [node-test-runner](https://marketplace.visualstudio.com/items?itemName=MadakaHeri.vsce-node-test-runner) - VSCode拡張テストランナー
 
 ## CLI制作
 
